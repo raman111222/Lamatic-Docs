@@ -451,7 +451,6 @@ const permanentRedirects = [
   ["/docs/workflows/testing", "/docs/tests/flow_tests"],
   ["/docs/workflows/Nodes/AI/RAG", "/docs/flows/nodes"],
   ["/docs/models/usage-cost", "/docs/models"],
-  ["/docs/keys", "/docs/models/api-key-guide"],
   ["/docs/apps/marketplace", "/docs/integrations"],
   ["/docs/workflows/nodes/agents", "/docs/flows/nodes"],
   ["/docs/workflows/nodes/agents/decision-branch", "/docs/flows/nodes"],
